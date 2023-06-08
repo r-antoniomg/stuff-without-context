@@ -30,11 +30,13 @@ For a majority of the images in the collection, the date was instead inferred ba
 
 The metadata file that informs the content of this site is a .csv document which includes columns for location, as well as latitude and longitude information. These fields are part of the standard [CollectionBuilder-CSV template](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-The data in these fields was kept in the file and were left in the file, but for the most part it's been hidden from public display, except for the location, which appears in the Browse cards as in the following example:
+The data in these fields was kept in the file and were left in the file, but for the most part it's been hidden from public display, except for the location, which appears in the [Browse cards](/stuff-without-context/browse.html).
 
-{% include feature/card.html objectid="object_010" width="25" centered=true %}
+The data contained in these fields corresponds to the geographic location where the various images were made.
 
-The data contained in these fields corresponds to the geographic location where the various images were made. These fields may be made visible in future iterations of the site. You may download select columns of the metadata file, as well as its full version, from the [Data](/stuff-without-context/data.html) page.
+{% include feature/cloud.html fields="location" min="" background="dark" button="outline-warning"  %}
+
+You may download select columns of the metadata file, as well as its full version, from the [Data](/stuff-without-context/data.html) page.
 
 ### Acknowledgements
 
