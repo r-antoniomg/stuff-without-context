@@ -10,24 +10,24 @@ credits: true
 
 {% include feature/jumbotron.html objectid="object_016" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+## About this collection
 
-## About CollectionBuilder CSV
+This demo collection features a random selection of digitized sketches and drawings by myself, and it was created for learning purposes. The site was built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+### Date ranges
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+The objects in this collection span an approximate date range between 2009-2021. For some images, a precise date could be obtained from the source itself, as in the following example:
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+{% include feature/image.html objectid="object_006" width="25" %}
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+As can be seen, in the upper-right corner of the sketch, a date was included in the original analogue document.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+For a majority of the images in the collection, the date was instead inferred based on the creator's recollection of the context in which the image was created. For example, the following image was drawn while I was taking a course towards a certificate in [Surface Design](https://coned.georgebrown.ca/courses-and-programs/surface-design-program) through [Continuing Education at George Brown College](https://coned.georgebrown.ca/), during the COVID-19 pandemic.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+{% include feature/image.html objectid="object_002" width="25" %}
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+### Location information
+
+The metadata file that informs the content of this site is a .csv document which includes columns for location, as well as latitude and longitude information. These fields are part of the standard [CollectionBuilder-CSV template](https://github.com/CollectionBuilder/collectionbuilder-csv) and were left in the file, but hidden from public display.
+
+The data contained in these fields corresponds to the geographic location where the various images were made. These fields may be made visible in future iterations of the site. You may download select columns of the metadata file, as well as its full version, from the [Data](/stuff-without-context/data.html) page.
