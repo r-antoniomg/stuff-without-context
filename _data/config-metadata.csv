@@ -5,9 +5,6 @@ date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 technique,Technique,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
