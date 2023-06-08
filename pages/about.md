@@ -46,4 +46,4 @@ They taught the course 'Creating Digital Collections with Minimal Infrastructure
 
 Their support also extends to in-depth consultation on a separate project on which I worked in parallel as part of this course. While that project cannot be made public, the insights and detailed guidance provided by all three instructors will inform a real use case for CollectionBuilder in my own work.
 
-Last but not least, my attendance to this workshop was funded and supported by the University of Waterloo Library, as part of professional development in my new(ish) role as Digital Scholarship Librarian.
+Last but not least, my attendance to this workshop was funded and supported by the University of Waterloo Library, as part of professional development in my new role as Digital Scholarship Librarian.
