@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="object_016" %} 
+{% include feature/jumbotron.html objectid="object_012" %} 
 
 ### Collaborators
 
@@ -25,3 +25,7 @@ They taught the course 'Creating Digital Collections with Minimal Infrastructure
 Their support also extends to in-depth consultation on a separate project on which I worked in parallel as part of this course. While that project cannot be made public, the insights and detailed guidance provided by all three instructors will inform a real use case for CollectionBuilder in my own work.
 
 Last but not least, my attendance to this workshop was funded and supported by the University of Waterloo Library, as part of professional development in my new role as Digital Scholarship Librarian.
+
+Remember to acknowledge the work of your collaborators in your own projects!
+
+[Collaborators' Bill of Rights](https://hcommons.org/deposits/item/hc:31187)
