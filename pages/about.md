@@ -31,3 +31,19 @@ For a majority of the images in the collection, the date was instead inferred ba
 The metadata file that informs the content of this site is a .csv document which includes columns for location, as well as latitude and longitude information. These fields are part of the standard [CollectionBuilder-CSV template](https://github.com/CollectionBuilder/collectionbuilder-csv) and were left in the file, but hidden from public display.
 
 The data contained in these fields corresponds to the geographic location where the various images were made. These fields may be made visible in future iterations of the site. You may download select columns of the metadata file, as well as its full version, from the [Data](/stuff-without-context/data.html) page.
+
+### Acknowledgements
+
+Digital projects are often the result of collaboration and many hours of otherwise invisible labour.
+
+This very basic digital exhibit would not have been possible without the help of:
+
+- [Devin Becker](https://vivo.nkn.uidaho.edu/vivo/display/n8136)
+- [Olivia Wikle](https://vivo.nkn.uidaho.edu/vivo/display/n263285)
+- [Evan Williamson](https://vivo.nkn.uidaho.edu/vivo/display/n43629)
+
+They taught the course 'Creating Digital Collections with Minimal Infrastructure: Hands On with CollectionBuilder for Teaching and Exhibits' as part of the 2023 [Digital Humanities Summer Institute](https://dhsi.org/) at the University of Victoria.
+
+Their support also extends to in-depth consultation on a separate project on which I worked in parallel as part of this course. While that project cannot be made public, the insights and detailed guidance provided by all three instructors will inform a real use case for CollectionBuilder in my own work.
+
+Last but not least, my attendance to this workshop was funded and supported by the University of Waterloo Library, as part of professional development in my new(ish) role as Digital Scholarship Librarian.
