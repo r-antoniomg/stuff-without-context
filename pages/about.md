@@ -18,7 +18,7 @@ This demo collection features a random selection of digitized sketches and drawi
 
 The objects in this collection span an approximate date range between 2009-2021. For some images, a precise date could be obtained from the source itself, as in the following example:
 
-{% include feature/image.html objectid="object_004" width="25" %}
+{% include feature/image.html objectid="object_006" width="25" %}
 
 As can be seen, in the upper-right corner of the sketch, a date was included in the original analogue document.
 
